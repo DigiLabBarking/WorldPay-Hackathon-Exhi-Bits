@@ -8,5 +8,5 @@ The '../WorldPayGitHub/Share' folder should always contain an empty '.txt' file 
   Otherwise it will use a default value of '1'
 The main folder is '../WorldPayGitHub/Exhi-Bits/WPTechInnovation-worldpay-within-sdk-3e94763/wrappers/python_2-7'
 The folder contains the 2 main python files:
-  'Producer.py' has to be the first to run and it will put up one of the items up for sale depending on the file in the '../WorldPayGitHub/Share' folder
-  'runConsumer.py' has to be run after and this will pay for the item offerd by the 'Producer.py' script
+'Producer.py' has to be the first to run and it will put up one of the items up for sale depending on the file in the '../WorldPayGitHub/Share' folder
+'runConsumer.py' has to be run after and this will pay for the item offerd by the 'Producer.py' script
